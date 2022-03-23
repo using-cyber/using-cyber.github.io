@@ -3,14 +3,14 @@
 # --------------------------------------
 
 
-# hexo clean    清楚本地静态文件
+# hexo clean    清除本地静态文件
 # hexo g   生成本地静态文件
 # hexo d   通过脚本上传更改
 
 
 
 
-theme: Butterfly
+# theme: Butterfly
 
 
 menu:
@@ -54,7 +54,7 @@ CDN_USE:
 social:
   # fab fa-github: https://github.com/xxxxx || Github
   # fas fa-envelope: mailto:xxxxxx@gmail.com || Email
-  fab fa-git: https://gitee.com/enthusiastic-citizen-wang || Gitee
+  fab fa-git: https://github.com/using-cyber || Github
   fab fa-weixin: /img/wechat.png || WeChat
   fab fa-qq: /img/qq.png || QQ
 
